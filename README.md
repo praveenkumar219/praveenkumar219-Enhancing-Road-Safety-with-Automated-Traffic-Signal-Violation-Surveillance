@@ -112,3 +112,4 @@ After processing a video footage, the administrator can add another video footag
 Libraries used for graphical user interface:
 * Tkinter
 
+Note : some of the codes taken in stack over flow 
