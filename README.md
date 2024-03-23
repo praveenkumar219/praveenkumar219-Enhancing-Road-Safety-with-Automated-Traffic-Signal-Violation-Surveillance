@@ -1,32 +1,12 @@
-# 
+A RBL PROJECT DONE BY PRAVEEN KUMAR A 
+GUIDED BY 
+DR. ASHOKA RAJAN S
 
-![Violation_Detection_Frame](Images/Violation_Detection_Frame_Red.jpg)
 
-## INTRO
-<img src="Images/Workflow Diagram.jpg" alt="Workflow Diagram" align="right" width="250" />
-This is a software for practice of developing a system from completely scratch. Understanding this will help a lot in system development and basic structure of a system along with computer vision, GUI with python library Tkinter and basic opencv.
 
-Go [here](#quick-starting-the-project) if you don't have time.
-
-## Table of content
-
-- [Motivation](#motivation)
-- [Introduction](#introduction)
-- [Objectives](#objectives)
-- [Quick Starting the project](#quick-starting-the-project)
-- [System Overview](#system-overview)
-- [Methodology](#methodology)
-    - [Vehicle Classification](#vehicle-classification)
-    - [Violation Detection](#violation-detection)
-- [Implementation](#implementation)
-    - [Computer Vision](#computer-vision)
-    - [Graphical User Interface](#graphical-user-interface)
-)
-
-## Motivation
 This project is made for the second year second semester System Development with gui  course by vit university.
 
-## Introduction
+ Introduction
 The increasing number of cars in cities can cause high volume of traffic, and implies that traffic violations become more critical nowadays in india and also around the world. This causes severe destruction of property and more accidents that may endanger the lives of the people. To solve the alarming problem and prevent such unfathomable consequences, Enhancing Road Safety with Automated Traffic Signal Violation Surveillance are needed. For which the system enforces proper traffic regulations at all times, and apprehend those who does not comply. A traffic violation detection system must be realized in real-time as the authorities track the roads all the time. Hence, traffic enforcers will not only be at ease in implementing safe roads accurately, but also efficiently; as the traffic detection system detects violations faster than humans. This system can detect traffic light violation in real-time. A user friendly graphical interface is associated with the system to make it simple for the user to operate the system, monitor traffic and take action against the violations of traffic rules.
 
 
@@ -34,7 +14,7 @@ The increasing number of cars in cities can cause high volume of traffic, and im
 The goal of the project is to  Automate Traffic Signal Violation Surveillance and make it easy for the traffic police department to monitor the traffic and take action against the violated vehicle owner in a fast and efficient way. Detecting and tracking the vehicle and their activities accurately is the main priority of the system. 
 
 ## Quick starting the project
-1. `git clone https://github.com/anmspro/Traffic-Signal-Violation-Detection-System.git`
+1. `git clone https://github.com/praveenkumar219/praveenkumar219-Enhancing-Road-Safety-with-Automated-Traffic-Signal-Violation-Surveillance
 2. Change the directories in "Project-GUI.py" & "object_detection.py"
 3. If the `yolov3.weights` is not accessible, download the file from this <a href="https://pjreddie.com/media/files/yolov3.weights" target="_blank">link</a>.
 4. Install required python dependencies into your python virtual environment.
